@@ -3,6 +3,13 @@ using namespace std;
 
 void main()
 {
-	cout << "\n Helo World" << endl;
+	cout << "\n Hello World" << endl;
+	cout << "\n Hello " << endl;
+	cout << "\n Hello " << endl;
+	cout << "\n Hello " << endl;
+	cout << "\n Hello " << endl;
+	cout << "\n Hello " << endl;
+	cout << "\n Hello " << endl;
+	cout << "\n Hello " << endl;
 }
 
